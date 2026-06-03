@@ -46,3 +46,10 @@ Add product slider and animations
 This project is inspired by the original Amazon website for learning and educational purposes only.
 
 Project snapshot:
+## Project Preview
+
+### Homepage
+![Amazon Clone Homepage](https://raw.githubusercontent.com/shubhankarnautiyal/Amazon-clone/main/Amazon.png)
+
+### Source Code
+![Amazon Clone Code](https://raw.githubusercontent.com/shubhankarnautiyal/Amazon-clone/main/AmazonCode.png)
